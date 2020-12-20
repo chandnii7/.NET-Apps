@@ -1,0 +1,10 @@
+C:\Users\cod_user\Desktop\Simon\Simon\bin\Debug\Simon.exe.config
+C:\Users\cod_user\Desktop\Simon\Simon\bin\Debug\Simon.exe
+C:\Users\cod_user\Desktop\Simon\Simon\bin\Debug\Simon.pdb
+C:\Users\cod_user\Desktop\Simon\Simon\obj\Debug\Simon.csprojResolveAssemblyReference.cache
+C:\Users\cod_user\Desktop\Simon\Simon\obj\Debug\Simon.Form1.resources
+C:\Users\cod_user\Desktop\Simon\Simon\obj\Debug\Simon.Properties.Resources.resources
+C:\Users\cod_user\Desktop\Simon\Simon\obj\Debug\Simon.csproj.GenerateResource.Cache
+C:\Users\cod_user\Desktop\Simon\Simon\obj\Debug\Simon.csproj.CoreCompileInputs.cache
+C:\Users\cod_user\Desktop\Simon\Simon\obj\Debug\Simon.exe
+C:\Users\cod_user\Desktop\Simon\Simon\obj\Debug\Simon.pdb

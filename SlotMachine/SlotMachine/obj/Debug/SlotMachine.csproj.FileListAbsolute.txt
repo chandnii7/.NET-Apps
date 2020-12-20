@@ -1,0 +1,19 @@
+c:\users\evan\documents\visual studio 2015\Projects\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\Users\Evan\documents\visual studio 2015\Projects\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\Evan\documents\visual studio 2015\Projects\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\Evan\documents\visual studio 2015\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csprojResolveAssemblyReference.cache
+C:\Users\Evan\documents\visual studio 2015\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+C:\Users\Evan\documents\visual studio 2015\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+C:\Users\Evan\documents\visual studio 2015\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.Cache
+C:\Users\Evan\documents\visual studio 2015\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+C:\Users\Evan\documents\visual studio 2015\Projects\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
+C:\Users\cod_user\Downloads\SlotMachine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csprojResolveAssemblyReference.cache
+C:\Users\cod_user\Downloads\SlotMachine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+C:\Users\cod_user\Downloads\SlotMachine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+C:\Users\cod_user\Downloads\SlotMachine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.Cache
+C:\Users\cod_user\Downloads\SlotMachine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\cod_user\Downloads\SlotMachine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+C:\Users\cod_user\Downloads\SlotMachine\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
+C:\Users\cod_user\Downloads\SlotMachine\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\Users\cod_user\Downloads\SlotMachine\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\cod_user\Downloads\SlotMachine\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb

@@ -1,0 +1,10 @@
+c:\users\evan\documents\visual studio 2015\Projects\Wumpus\Wumpus\bin\Debug\Wumpus.exe.config
+c:\users\evan\documents\visual studio 2015\Projects\Wumpus\Wumpus\obj\Debug\Wumpus.csprojResolveAssemblyReference.cache
+T:\C#\Wumpus\Wumpus\Wumpus\bin\Debug\Wumpus.exe.config
+C:\Users\imcha\Downloads\Wumpus\Wumpus\Wumpus\bin\Debug\Wumpus.exe.config
+C:\Users\imcha\Downloads\Wumpus\Wumpus\Wumpus\bin\Debug\Wumpus.exe
+C:\Users\imcha\Downloads\Wumpus\Wumpus\Wumpus\bin\Debug\Wumpus.pdb
+C:\Users\imcha\Downloads\Wumpus\Wumpus\Wumpus\obj\Debug\Wumpus.csprojResolveAssemblyReference.cache
+C:\Users\imcha\Downloads\Wumpus\Wumpus\Wumpus\obj\Debug\Wumpus.csproj.CoreCompileInputs.cache
+C:\Users\imcha\Downloads\Wumpus\Wumpus\Wumpus\obj\Debug\Wumpus.exe
+C:\Users\imcha\Downloads\Wumpus\Wumpus\Wumpus\obj\Debug\Wumpus.pdb
