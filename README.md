@@ -16,7 +16,7 @@ Objectives:
 * Turning cards in every turn in pairs of two. 
 * If you find a pair, those cards are eliminated.
 * Try eliminating all cards in minimal turns to win.
-![Image of Yaktocat](https://github.com/chandnii7/.NETApps/blob/main/Concentration/Concentration/Resources/Concentration.jpg =100x200)
+<img src="https://github.com/chandnii7/.NETApps/blob/main/Concentration/Concentration/Resources/Concentration.jpg" height="100" width="200">
 
 ### Dodger App
 * Dodge red, green and yellow blocks using mouse. 
