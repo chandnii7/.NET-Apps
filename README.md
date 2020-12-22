@@ -45,5 +45,5 @@ Objectives:
 
 ### Wumpus Console App
 * Refer the map on right. Kill the Wumpus before it kills you to win the game following the instructions and options in the console.
-<img src="https://github.com/chandnii7/.NETApps/blob/main/Wumpus/WumpusConsole.jpg" height="500" width="1000">
+<img src="https://github.com/chandnii7/.NETApps/blob/main/Wumpus/WumpusConsole.jpg" height="400" width="800">
 <br />
